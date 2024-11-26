@@ -1,4 +1,4 @@
-# MatrixFunc
+**# MatrixFunc
 Exit codes
 2 - Incorrect size when creating the matrix (Неправильный размер при создании матрицы)
 3 - Matrix cannot be NULL (Матрица не может быть NULL)
@@ -46,3 +46,4 @@ printf("Matrix m5 = ");
 matrix_print(m5, sizeof("Matrix m5 = ") - 1); - 2 аргументом передается количество пробелов перед выводом строк матрицы кроме первой.
 ===========================================
 
+**
