@@ -1,5 +1,4 @@
 # MatrixFunc
-===========================================
 Exit codes
 2 - Incorrect size when creating the matrix (Неправильный размер при создании матрицы)
 3 - Matrix cannot be NULL (Матрица не может быть NULL)
