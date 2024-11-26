@@ -19,7 +19,7 @@ typedef struct Matrix {
 
 #Функции библиотеки
 ===========================================
-int* matrix_get_num (Matrix* matrix, int x, int y)
+int* matrix_get_num (Matrix* matrix, int x, int y)\n
 void matrix_fill (Matrix* matrix, int fill_num)
 Matrix* matrix_create (int rows, int columns, int fill_num)
 void matrix_fill_rand (Matrix* matrix, int max, const int min)
