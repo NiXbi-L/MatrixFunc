@@ -15,7 +15,10 @@
     </Filter>
   </ItemGroup>
   <ItemGroup>
-    <ClCompile Include="Source.cpp">
+    <ClCompile Include="Source.c">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="main.c">
       <Filter>Source Files</Filter>
     </ClCompile>
   </ItemGroup>
@@ -23,5 +26,10 @@
     <Text Include="words.txt">
       <Filter>Source Files</Filter>
     </Text>
+  </ItemGroup>
+  <ItemGroup>
+    <ClInclude Include="Header.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
   </ItemGroup>
 </Project>

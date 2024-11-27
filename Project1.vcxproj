@@ -140,10 +140,14 @@
     </Link>
   </ItemDefinitionGroup>
   <ItemGroup>
-    <ClCompile Include="Source.cpp" />
+    <ClCompile Include="main.c" />
+    <ClCompile Include="Source.c" />
   </ItemGroup>
   <ItemGroup>
     <Text Include="words.txt" />
+  </ItemGroup>
+  <ItemGroup>
+    <ClInclude Include="Header.h" />
   </ItemGroup>
   <Import Project="$(VCTargetsPath)\Microsoft.Cpp.targets" />
   <ImportGroup Label="ExtensionTargets">

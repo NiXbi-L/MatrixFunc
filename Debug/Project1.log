@@ -1,23 +1,27 @@
-﻿  Source.cpp
-C:\Users\DiXer\source\repos\Project1\Source.cpp(20,18): warning C4047: '!=': 'int' differs in levels of indirection from 'void *'
-C:\Users\DiXer\source\repos\Project1\Source.cpp(67,24): warning C4047: '!=': 'int' differs in levels of indirection from 'void *'
-C:\Users\DiXer\source\repos\Project1\Source.cpp(101,72): warning C4047: 'function': 'int' differs in levels of indirection from 'void *'
-C:\Users\DiXer\source\repos\Project1\Source.cpp(101,68): warning C4024: 'matrix_create': different types for formal and actual parameter 3
-C:\Users\DiXer\source\repos\Project1\Source.cpp(118,58): warning C4047: 'function': 'int' differs in levels of indirection from 'void *'
-C:\Users\DiXer\source\repos\Project1\Source.cpp(118,54): warning C4024: 'matrix_create': different types for formal and actual parameter 3
-C:\Users\DiXer\source\repos\Project1\Source.cpp(142,74): warning C4047: 'function': 'int' differs in levels of indirection from 'void *'
-C:\Users\DiXer\source\repos\Project1\Source.cpp(142,70): warning C4024: 'matrix_create': different types for formal and actual parameter 3
-C:\Users\DiXer\source\repos\Project1\Source.cpp(152,71): warning C4047: 'function': 'int' differs in levels of indirection from 'void *'
-C:\Users\DiXer\source\repos\Project1\Source.cpp(152,67): warning C4024: 'matrix_create': different types for formal and actual parameter 3
-C:\Users\DiXer\source\repos\Project1\Source.cpp(188,12): warning C4013: 'time' undefined; assuming extern returning int
-C:\Users\DiXer\source\repos\Project1\Source.cpp(189,38): warning C4047: 'function': 'int' differs in levels of indirection from 'void *'
-C:\Users\DiXer\source\repos\Project1\Source.cpp(189,34): warning C4024: 'matrix_create': different types for formal and actual parameter 3
-C:\Users\DiXer\source\repos\Project1\Source.cpp(190,39): warning C4047: 'function': 'int' differs in levels of indirection from 'void *'
-C:\Users\DiXer\source\repos\Project1\Source.cpp(190,35): warning C4024: 'matrix_create': different types for formal and actual parameter 3
-C:\Users\DiXer\source\repos\Project1\Source.cpp(204,39): warning C4047: 'function': 'int' differs in levels of indirection from 'void *'
-C:\Users\DiXer\source\repos\Project1\Source.cpp(204,35): warning C4024: 'matrix_create': different types for formal and actual parameter 3
-C:\Users\DiXer\source\repos\Project1\Source.cpp(205,39): warning C4047: 'function': 'int' differs in levels of indirection from 'void *'
-C:\Users\DiXer\source\repos\Project1\Source.cpp(205,35): warning C4024: 'matrix_create': different types for formal and actual parameter 3
-C:\Users\DiXer\source\repos\Project1\Source.cpp(225,39): warning C4047: 'function': 'int' differs in levels of indirection from 'void *'
-C:\Users\DiXer\source\repos\Project1\Source.cpp(225,35): warning C4024: 'matrix_create': different types for formal and actual parameter 3
+﻿  main.c
+C:\Users\DiXer\source\repos\Project1\main.c(9,21): warning C4013: 'getchar' undefined; assuming extern returning int
+C:\Users\DiXer\source\repos\Project1\main.c(14,18): warning C4244: 'function': conversion from 'time_t' to 'unsigned int', possible loss of data
+C:\Users\DiXer\source\repos\Project1\main.c(15,38): warning C4047: 'function': 'int' differs in levels of indirection from 'void *'
+C:\Users\DiXer\source\repos\Project1\main.c(15,34): warning C4024: 'matrix_create': different types for formal and actual parameter 3
+C:\Users\DiXer\source\repos\Project1\main.c(16,39): warning C4047: 'function': 'int' differs in levels of indirection from 'void *'
+C:\Users\DiXer\source\repos\Project1\main.c(16,35): warning C4024: 'matrix_create': different types for formal and actual parameter 3
+C:\Users\DiXer\source\repos\Project1\main.c(18,8): warning C4013: 'printf' undefined; assuming extern returning int
+C:\Users\DiXer\source\repos\Project1\main.c(30,39): warning C4047: 'function': 'int' differs in levels of indirection from 'void *'
+C:\Users\DiXer\source\repos\Project1\main.c(30,35): warning C4024: 'matrix_create': different types for formal and actual parameter 3
+C:\Users\DiXer\source\repos\Project1\main.c(31,39): warning C4047: 'function': 'int' differs in levels of indirection from 'void *'
+C:\Users\DiXer\source\repos\Project1\main.c(31,35): warning C4024: 'matrix_create': different types for formal and actual parameter 3
+C:\Users\DiXer\source\repos\Project1\main.c(51,39): warning C4047: 'function': 'int' differs in levels of indirection from 'void *'
+C:\Users\DiXer\source\repos\Project1\main.c(51,35): warning C4024: 'matrix_create': different types for formal and actual parameter 3
+  Source.c
+C:\Users\DiXer\source\repos\Project1\Source.c(20,18): warning C4047: '!=': 'int' differs in levels of indirection from 'void *'
+C:\Users\DiXer\source\repos\Project1\Source.c(67,24): warning C4047: '!=': 'int' differs in levels of indirection from 'void *'
+C:\Users\DiXer\source\repos\Project1\Source.c(101,72): warning C4047: 'function': 'int' differs in levels of indirection from 'void *'
+C:\Users\DiXer\source\repos\Project1\Source.c(101,68): warning C4024: 'matrix_create': different types for formal and actual parameter 3
+C:\Users\DiXer\source\repos\Project1\Source.c(118,58): warning C4047: 'function': 'int' differs in levels of indirection from 'void *'
+C:\Users\DiXer\source\repos\Project1\Source.c(118,54): warning C4024: 'matrix_create': different types for formal and actual parameter 3
+C:\Users\DiXer\source\repos\Project1\Source.c(143,74): warning C4047: 'function': 'int' differs in levels of indirection from 'void *'
+C:\Users\DiXer\source\repos\Project1\Source.c(143,70): warning C4024: 'matrix_create': different types for formal and actual parameter 3
+C:\Users\DiXer\source\repos\Project1\Source.c(154,71): warning C4047: 'function': 'int' differs in levels of indirection from 'void *'
+C:\Users\DiXer\source\repos\Project1\Source.c(154,67): warning C4024: 'matrix_create': different types for formal and actual parameter 3
+  Generating Code...
   Project1.vcxproj -> C:\Users\DiXer\source\repos\Project1\Debug\Project1.exe
