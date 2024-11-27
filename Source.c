@@ -2,13 +2,8 @@
 #include <stdlib.h>
 #include <string.h>
 #include <locale.h>
+#include "Header.h"
 #pragma warning(disable: 4996)
-
-typedef struct Matrix {
-	int** matrix_body;
-	int columns;
-	int rows;
-} Matrix;
 
 //lib func
 int getRandomNumber(int min, int max) {
